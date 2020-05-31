@@ -9,4 +9,4 @@ A clone of the famous "I Am Rich" iOS mobile app by Armin Heinrich that had an e
 
 # Motivation
 
-I developed this app while following the LinkedIn Learning course "Flutter: Part 02 Building Apps" by London App Brewery and Angela Yu (https://www.linkedin.com/learning/flutter-part-02-building-apps).
+This project was developed while following the LinkedIn Learning course "Flutter: Part 02 Building Apps" by London App Brewery and Angela Yu (https://www.linkedin.com/learning/flutter-part-02-building-apps).
