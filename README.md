@@ -1,11 +1,11 @@
 # Overview
 
-A clone of the famous "I Am Rich" iOS mobile app by Armin Heinrich that had an extremely high price while ironically doing absolutely nothing but display an icon (more info: https://en.wikipedia.org/wiki/I_Am_Rich). For Heinrich, this was a genious idea to scam rich people looking for a way to show off their wealth. For me, it serves as a good template to relearn the basics of Flutter for mobile app development. 
+A clone of the famous "I Am Rich" iOS mobile app by Armin Heinrich that was famous for having an extremely high price while ironically doing absolutely nothing except display an icon (more info: https://en.wikipedia.org/wiki/I_Am_Rich). For Heinrich, this was a genious idea to scam rich people looking for a way to show off their wealth. For me, it serves as a good template to relearn the basics of Flutter for mobile app development. 
 
 # Directories
 
 - app: source code for the flutter application
-- docs: any external documents used along the way
+- docs: any external documents created along the way
 
 # Motivation
 
