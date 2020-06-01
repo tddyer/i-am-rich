@@ -5,7 +5,6 @@ void main() {
 
   Color appBarColor = Colors.grey[800];
   Color bgColor = Colors.grey[700];
-  bool isDark = true;
 
   runApp(
     MaterialApp(
